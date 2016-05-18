@@ -12,27 +12,27 @@ class Modules_HookActiveList_ActiveList extends pm_Hook_ActiveList
             [
                 'icon' => pm_Context::getBaseUrl() . 'images/icon-service1.png',
                 'title' => pm_Locale::lmsg('service1Title'),
-                'link' => 'service1' . $itemId,
+                'link' => '#!',
                 'toolbar' => [
                     [
                         'title' => pm_Locale::lmsg('action1Title'),
-                        'link' => 'action1' . $itemId,
+                        'link' => '#!',
                     ],
                     [
                         'title' => pm_Locale::lmsg('action3Title'),
-                        'link' => 'action2' . $itemId,
+                        'link' => '#!',
                     ],
                 ],
             ],
             [
-                'title' => 'NewService',
+                'title' => pm_Locale::lmsg('service2Title'),
                 'icon' => pm_Context::getBaseUrl() . 'images/file-manager.png',
 
-                'link' => 'action1' . $itemId,
+                'link' => '/smb/web/add-domain',
                 'toolbar' => [
                     [
                         'title' => pm_Locale::lmsg('toolbarTitle'),
-                        'link' => 'action2' . $itemId,
+                        'link' => '#!',
                     ],
                 ],
             ],

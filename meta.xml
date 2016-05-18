@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright 1999-2016. Parallels IP Holdings GmbH. -->
 <module>
-  <id>HookActiveList</id>
+  <id>hook-activelist</id>
   <name>Domain hook for ActiveList Example</name>
-  <description>This extension is an example embedding extension in Active List of domain.</description>
-  <version>1</version>
-  <release>1</release>
+  <description>Demonstrates how to embed services in domain active list.</description>
+  <version>1.0</version>
+  <release>1.0</release>
   <vendor>Plesk</vendor>
   <plesk_min_version>17.0</plesk_min_version>
 </module>
