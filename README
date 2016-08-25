@@ -1,9 +1,0 @@
-Domain hook for ActiveList Example
-
-A test extension intended to demonstrate how to embed custom services in domain active list. 
-
-The following techniques are demonstrated:
-* Creation of service
-* Creation of toolbar
-
-
