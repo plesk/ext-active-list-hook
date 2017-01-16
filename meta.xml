@@ -4,8 +4,9 @@
   <id>hook-activelist</id>
   <name>Domain hook for ActiveList Example</name>
   <description>Demonstrates how to embed services in domain active list.</description>
+  <category>example</category>
   <version>1.0</version>
-  <release>1</release>
+  <release>2</release>
   <vendor>Plesk</vendor>
   <url>https://github.com/plesk/ext-active-list-hook</url>
   <plesk_min_version>17.0</plesk_min_version>
